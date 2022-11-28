@@ -1,3 +1,3 @@
-# quiz-react
+Projeto desenvolvido a partir de um  curso
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-hdvgpy)
+Primeiros passos com react js
